@@ -1,2 +1,2 @@
 # Multim-dia
-Gestion de multimédia
+Gestion de documents multimédia
